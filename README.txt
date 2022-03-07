@@ -1,5 +1,5 @@
-# CHIP-8 Interpreter
-#### Written in C#
+CHIP-8 Interpreter
+Written in C#
 
 The interpreter class is intended to be a completely library-agnostic class, able to be used with any (or without) external libraries.
 All CHIP-8 op-codes are handled and have been tested against several different test programs.
